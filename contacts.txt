@@ -1,0 +1,8 @@
+109 sevde_koroglu sevde@sirket.com
+0 0 0
+101 Ahmet_Yilmaz ahmet@sirket.com
+102 Ayse_Demir ayse@sirket.com
+104 Elif_Kaya elif@tasarim.com
+105 Can_Yildiz can@stajyer.com
+107 Burak_Sari burak@satis.com
+108 erva_koroglu erva@sirket.com

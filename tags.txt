@@ -1,0 +1,14 @@
+109 Frontend
+109 Tasarim
+101 Yazilim
+101 Backend
+102 Yazilim
+102 Frontend
+104 Tasarim
+104 UI_UX
+105 Stajyer
+105 Yazilim
+107 Satis
+107 Pazarlama
+108 Yazilim
+108 Backend
